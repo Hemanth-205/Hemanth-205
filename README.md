@@ -24,7 +24,7 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth-205-A&theme=react-dark&hide_border=false&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth-205 &theme=react-dark&hide_border=false&area=true" />
 </p>
 
 ## 💡 Favorite Quote
