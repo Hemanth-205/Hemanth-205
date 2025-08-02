@@ -24,7 +24,7 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiselvi-A&theme=react-dark&hide_border=false&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth-205-A&theme=react-dark&hide_border=false&area=true" />
 </p>
 
 ## 💡 Favorite Quote
@@ -65,7 +65,7 @@ A deep-learning-powered face recognition system for automating attendance.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 💬 Testimonials
-- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
+- "Hemanth G is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
   
 ## 📚 Currently Learning
 - TensorFlow for Deep Learning
