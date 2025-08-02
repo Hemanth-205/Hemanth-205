@@ -24,6 +24,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guhan-N&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Guhan-N&theme=dark&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guhan-N&layout=compact&theme=dark&langs_count=6" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Guhan-N&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
 ## 🏅 Certifications and Achievements
 - IT Specialist - Python [Certiport](https://www.certiport.com/)
 - CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
