@@ -106,8 +106,17 @@ A deep-learning-powered face recognition system for automating attendance.
 
 
 
+## 😃 Pacman Contribution
 
-  ## 🔗 Connect with Me   
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guhan-N/Guhan-N/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guhan-N/Guhan-N/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guhan-N/Guhan-N/output/pacman-contribution-graph.svg">
+</picture>
+</p>
+
+## 🔗 Connect with Me   
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-g25" target="_blank">
