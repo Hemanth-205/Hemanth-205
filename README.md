@@ -9,6 +9,8 @@
     🌐 Web Developer | 🤖 AI Explorer | 🇮🇳 B.Tech IT Student <br>
   Passionate about building impactful projects that merge technology, law, and digital security.
 </p>
+
+
 ## 🏅 Certifications and Achievements
 - IT Specialist - Python [Certiport](https://www.certiport.com/)
 - CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
