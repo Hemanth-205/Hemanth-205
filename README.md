@@ -34,7 +34,7 @@
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalaiselvia)
 
 ## 📄 View My Resume
-[Resume PDF](https://github.com/Kalaiselvi-A/resume.pdf)
+[Resume PDF](https://drive.google.com/file/d/16ZjsQYbkgVRZcxp8YHJVHUM78sSq85bb/view?usp=drive_link)
 
 ## 🌟 Key Projects
 ### 1. Network Intrusion Detection System (NIDS)
