@@ -5,9 +5,10 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Hemanth-205-A&color=blueviolet)
 
 ## 🔨 What I'm Currently Working On
-- Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
-- AI-powered recommendation system for an e-commerce platform using TensorFlow.
-
+<p align="center">
+    🌐 Web Developer | 🤖 AI Explorer | 🇮🇳 B.Tech IT Student <br>
+  Passionate about building impactful projects that merge technology, law, and digital security.
+</p>
 ## 🏅 Certifications and Achievements
 - IT Specialist - Python [Certiport](https://www.certiport.com/)
 - CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
