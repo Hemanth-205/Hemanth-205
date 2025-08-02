@@ -1,14 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Hemanth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=black&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Hemanth" />
 </h1>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Hemanth-205-A&color=blueviolet)
-
-## 🔨 What I'm Currently Working On
-<p align="center">
-    🌐 Web Developer | 🤖 AI Explorer | 🇮🇳 B.Tech IT Student <br>
-  Passionate about building impactful projects that merge technology, law, and digital security.
-</p>
 
 ## 🛠 Tech Stack & Tools
 
@@ -28,9 +22,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guhan-N&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Guhan-N&theme=dark&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guhan-N&layout=compact&theme=dark&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-205&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Hemanth-205&theme=dark&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemanth-205&layout=compact&theme=dark&langs_count=6" height="150" />
 </p>
 
 ---
@@ -40,77 +34,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Guhan-N&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
-
-## 🏅 Certifications and Achievements
-- IT Specialist - Python [Certiport](https://www.certiport.com/)
-- CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
-- Star Performer, Full Stack Java Training Program (TNS India Foundation)
-- Participated in MINeD Hackathon 2024, focusing on ResumeRevealer problem statement with team Cyber-X.
-
-## 📝 Latest Articles
-- [Staying Updated in Technology](https://www.linkedin.com/in/kalaiselvi-a/)
-- [Core Java 8 - Deep Dive](https://www.linkedin.com/in/kalaiselvi-a/)
-
-## 🌍 Open Source Contributions
-- Contributed to [OpenCV](https://github.com/opencv/opencv) (Facial Recognition Integration)
-- Participated in Django repository issues and bug fixes.
-
-## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth-205 &theme=react-dark&hide_border=false&area=true" />
-</p>
-
-## 💡 Favorite Quote
-"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
-
-## 🏅 Coding Challenges
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalaiselvia)
-
-## 📄 View My Resume
-[Resume PDF](https://drive.google.com/file/d/16ZjsQYbkgVRZcxp8YHJVHUM78sSq85bb/view?usp=drive_link)
-
-## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
-A Django-based system designed to detect and alert on network intrusions using signature-based and anomaly-based detection techniques. 
-- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
-- **Features**: Packet capture, analysis, and intrusion detection.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/NIDS-Demo)
-  
-### 2. AI-Powered E-Commerce Recommendation System
-An e-commerce platform using AI-based recommendation algorithms to personalize user experiences.
-- **Technologies**: Python, TensorFlow, Django, Bootstrap
-- **Features**: User authentication, product recommendation, real-time data analysis.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/ECommerce-AI)
-
-### 3. Face Recognition-Based Online Attendance System
-A deep-learning-powered face recognition system for automating attendance.
-- **Technologies**: Python, OpenCV, TensorFlow, Flask
-- **Features**: Face detection, recognition, and attendance marking.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
-
-## 🛠 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/java-original.sv" height="40" alt="Python" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</p>
-
-## 💬 Testimonials
-- "Hemanth G is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
-  
-## 📚 Currently Learning
-- TensorFlow for Deep Learning
-- Advanced Microservices with Spring Boot
-
-
 
 ## 😃 Pacman Contribution
 
