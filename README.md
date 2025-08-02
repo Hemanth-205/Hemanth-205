@@ -1,7 +1,6 @@
- <h1 align="center">
-  <img src="<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/9d676bcb-a7d7-45f9-a2c2-a263ec9cee94" />
-"/>
-</h1>
+
+<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/b1884938-17bc-4e34-a6b8-1172e4c595e1" />
+
  <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Hemanth.G" />
 </h1>
