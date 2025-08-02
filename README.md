@@ -1,11 +1,8 @@
-
-<img width="1584" height="396" alt="Black Elegant Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/b1884938-17bc-4e34-a6b8-1172e4c595e1" />
-
- <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Hemanth.G" />
 </h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=Hemanth-205-A&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=Hemanth-205-A&color=black)
 
 ## 🔨 What I'm Currently Working On
 - Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
