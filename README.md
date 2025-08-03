@@ -27,12 +27,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guhan-N&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
 ## 😃 Pacman Contribution
 
 <p align="center">
@@ -51,13 +45,13 @@
   </a>
   </a>
 
-  <a href="https://www.instagram.com/guhan_862/" target="_blank">
+  <a href="https://www.instagram.com/mr_hemanth_py/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
   </a>
-  <a href="https://t.me/Guhan224" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" />
-  </a>
-  <a href="http://wa.me/+917010572799" target="_blank">
+  <a href="mailto:grhemanth26@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="email logo" />
+</a>
+  <a href="http://wa.me/+919342545024" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="WhatsApp logo" />
   </a>
 </p>
