@@ -6,8 +6,6 @@
 </h1>
 
 
----
-
 ### 🌟 About Me <img align="right" src="https://komarev.com/ghpvc/?username=Hemanth-205&label=Profile+Views&color=blue&style=plastic" alt="Hemanth-205" />
 
 🎓 **B.Tech IT** Pre-final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
@@ -31,8 +29,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
-
- 
 ---
 
 ### 🏅 Certifications
