@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 About Me
+### 🌟 About Me <img align="right" src="https://komarev.com/ghpvc/?username=Hemanth-205&label=Profile+Views&color=blue&style=plastic" alt="Hemanth-205" />
 
 🎓 **B.Tech IT** final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
 🖥️ **Frontend Developer** with a passion for creating responsive, user-friendly websites  
@@ -20,7 +20,6 @@
 🎨 Love UI/UX design using **Figma** and **Canva**  
 💡 Always exploring the latest in **tech**, **smart automation**, and **urban innovation**
 
----
 
 ## 🛠 Tech Stack & Tools
 
@@ -33,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
 
