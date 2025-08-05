@@ -10,7 +10,7 @@
 
 ### 🌟 About Me <img align="right" src="https://komarev.com/ghpvc/?username=Hemanth-205&label=Profile+Views&color=blue&style=plastic" alt="Hemanth-205" />
 
-🎓 **B.Tech IT** final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
+🎓 **B.Tech IT** Pre-final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
 🖥️ **Frontend Developer** with a passion for creating responsive, user-friendly websites  
 📊 Aspiring **Data Analyst** skilled in **Power BI** and **SQL**  
 🎨 Love UI/UX design using **Figma** and **Canva**  
