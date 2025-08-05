@@ -90,12 +90,23 @@
 
 ### 🔗 Let’s Connect & Collaborate!
 
-📬 **Email:** [grhemanth26@gmail.com](mailto:grhemanth26@gmail.com)  
-🔗 **LinkedIn:** [hemanth-g25](https://www.linkedin.com/in/hemanth-g25)  
-💻 **GitHub:** [Hemanth-205](https://github.com/Hemanth-205)
-
----
+<p align="center">
+  <a href="mailto:grhemanth26@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" height="40" alt="Gmail" title="Send me an Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hemanth-g25" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" height="40" alt="LinkedIn" title="Connect on LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Hemanth-205" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" height="40" alt="GitHub" title="Check out my GitHub" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hemanth-205&label=Profile+Views&color=blue&style=plastic" alt="Hemanth-205" />
+  📬 <strong>Email:</strong> <a href="mailto:grhemanth26@gmail.com">grhemanth26@gmail.com</a><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hemanth-g25">hemanth-g25</a><br>
+  💻 <strong>GitHub:</strong> <a href="https://github.com/Hemanth-205">Hemanth-205</a>
 </p>
+
+
+---
