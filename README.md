@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemanth+G.;Frontend+Developer+%7C+Data+Analyst;Tech+Enthusiast+from+Puducherry!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=600&lines=Hemanth+G;Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <a href="mailto:grhemanth26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hemanth-g25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
