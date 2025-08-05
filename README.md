@@ -6,7 +6,7 @@
 </h1>
 
 
-### 🌟 About Me <img align="right" src="https://komarev.com/ghpvc/?username=Hemanth-205&label=Profile+Views&color=blue&style=plastic" alt="Hemanth-205" />
+### 🌟 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=Hemanth-205&label=Profile+Views&color=blue&style=plastic)
 
 🎓 **B.Tech IT** Pre-final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
 🖥️ **Frontend Developer** with a passion for creating responsive, user-friendly websites  
