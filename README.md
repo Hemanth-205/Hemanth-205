@@ -91,14 +91,19 @@
 ### 🔗 Let’s Connect & Collaborate!
 
 <p align="center">
+  <!-- Gmail -->
   <a href="mailto:grhemanth26@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" height="40" alt="Gmail" title="Send me an Email" />
+    <img src="https://img.icons8.com/fluency/48/gmail.png" height="40" alt="Gmail" title="Send me an Email" />
   </a>&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hemanth-g25" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" height="40" alt="LinkedIn" title="Connect on LinkedIn" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="40" alt="LinkedIn" title="Connect on LinkedIn" />
   </a>&nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/Hemanth-205" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" height="40" alt="GitHub" title="Check out my GitHub" />
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" height="40" alt="GitHub" title="Check out my GitHub" />
   </a>
 </p>
 
