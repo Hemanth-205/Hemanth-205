@@ -1,5 +1,8 @@
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemanth+G;" alt="Typing SVG" />
+</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=600&lines=Hemanth+G;Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast" alt="Typing SVG" />
 </h1>
 <p align="center">
   <a href="mailto:grhemanth26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,17 +22,20 @@
 
 ---
 
-### 🚀 Projects
+## 🛠 Tech Stack & Tools
 
-💻 **Event Gallery Website**  
-> _HTML, CSS, JavaScript_  
-> Created an event gallery with interactive modals, filtering, and hover animations.
-
-🛠️ **IR-Based Home Appliance Control System**  
-> _Arduino, Embedded C_  
-> Smart home controller using IR remote for automation and energy efficiency.
-
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+</p>
 
  
 ---
@@ -39,6 +45,18 @@
 - ✅ Frontend Development - *DATANERDZ.AI*  
 - 📊 Power BI - *Skill Nation*  
 - ☕ Java - *Spoken Tutorial, IIT Bombay*
+
+---
+
+### 🚀 Projects
+
+💻 **Event Gallery Website**  
+> _HTML, CSS, JavaScript_  
+> Created an event gallery with interactive modals, filtering, and hover animations.
+
+🛠️ **IR-Based Home Appliance Control System**  
+> _Arduino, Embedded C_  
+> Smart home controller using IR remote for automation and energy efficiency.
 
 ---
 
