@@ -1,10 +1,11 @@
  <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemanth+G;" alt="Typing SVG" />
 </h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast" alt="Typing SVG" />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Kalaiselvi" />
 </h1>
 
+![Visitors](https://komarev.com/ghpvc/?username=Kalaiselvi-A&color=blueviolet)
 ### 🌟 About Me  
 
 🎓 **B.Tech IT** Pre-final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
