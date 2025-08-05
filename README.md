@@ -15,7 +15,7 @@
 💡 Always exploring the latest in **tech**, **smart automation**, and **urban innovation**
 
 ---
-## 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
