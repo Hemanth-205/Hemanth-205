@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast" alt="Typing SVG" />
 </h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=Hemanth-205&color=blueviolet)
-
 ### 🌟 About Me  
 
 🎓 **B.Tech IT** Pre-final-year student at **Manakula Vinayagar Institute of Technology**, Puducherry  
