@@ -4,11 +4,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DB2FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast" alt="Typing SVG" />
 </h1>
-<p align="center">
-  <a href="mailto:grhemanth26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemanth-g25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Hemanth-205"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
 
 ---
 
@@ -108,10 +104,8 @@
 </p>
 
 <p align="center">
-  📬 <strong>Email:</strong> <a href="mailto:grhemanth26@gmail.com">grhemanth26@gmail.com</a><br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hemanth-g25">hemanth-g25</a><br>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/Hemanth-205">Hemanth-205</a>
+  <a href="mailto:grhemanth26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemanth-g25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hemanth-205"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-
 ---
