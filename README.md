@@ -80,17 +80,6 @@
 
 ---
 
-## 😃 Pacman Contribution
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanth-205/Hemanth-205/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemanth-205/Hemanth-205/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hemanth-205/Hemanth-205/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
 ### 🔗 Let’s Connect & Collaborate!
 
 <p align="center">
@@ -110,10 +99,5 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:grhemanth26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemanth-g25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Hemanth-205"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
