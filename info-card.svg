@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="520" viewBox="0 0 430 520">
+<rect width="430" height="520" rx="18" fill="#0d1117" stroke="#30363d"/>
+<style>
+.t{font-family:Arial,sans-serif;fill:#c9d1d9}.k{font-family:monospace;fill:#58a6ff;font-weight:700}
+.v{font-family:monospace;fill:#e6edf3}.r{opacity:0;animation:fade .45s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<text class="t" x="22" y="38" font-size="18" font-weight="700">hemanth@github:~$ neofetch</text>
+<line x1="22" y1="55" x2="408" y2="55" stroke="#30363d"/>
+<text class="r k" x="22" y="88" style="animation-delay:.05s">NAME</text><text class="r v" x="142" y="88" style="animation-delay:.05s">Hemanth G</text>
+<text class="r k" x="22" y="120" style="animation-delay:.12s">ROLE</text><text class="r v" x="142" y="120" style="animation-delay:.12s">IT Student / Developer</text>
+<text class="r k" x="22" y="152" style="animation-delay:.19s">EDUCATION</text><text class="r v" x="142" y="152" style="animation-delay:.19s">B.Tech Information Technology</text>
+<text class="r k" x="22" y="184" style="animation-delay:.26s">COLLEGE</text><text class="r v" x="142" y="184" style="animation-delay:.26s">MVIT · Puducherry</text>
+<text class="r k" x="22" y="216" style="animation-delay:.33s">FOCUS</text><text class="r v" x="142" y="216" style="animation-delay:.33s">Web · Data · IoT · AI</text>
+<text class="r k" x="22" y="248" style="animation-delay:.40s">LANGUAGES</text><text class="r v" x="142" y="248" style="animation-delay:.40s">Java · Python · JavaScript</text>
+<text class="r k" x="22" y="280" style="animation-delay:.47s">DATA</text><text class="r v" x="142" y="280" style="animation-delay:.47s">SQL · MongoDB · Power BI</text>
+<text class="r k" x="22" y="312" style="animation-delay:.54s">TOOLS</text><text class="r v" x="142" y="312" style="animation-delay:.54s">Git · Figma · Canva</text>
+<text class="r k" x="22" y="344" style="animation-delay:.61s">IOT</text><text class="r v" x="142" y="344" style="animation-delay:.61s">ESP32 · Arduino</text>
+<line x1="22" y1="372" x2="408" y2="372" stroke="#30363d"/>
+<text class="r k" x="22" y="405" style="animation-delay:.68s">STATUS</text><text class="r v" x="142" y="405" style="animation-delay:.68s">Open to opportunities</text>
+<text class="r k" x="22" y="437" style="animation-delay:.75s">CURRENTLY</text><text class="r v" x="142" y="437" style="animation-delay:.75s">Building &amp; learning</text>
+<text class="t" x="22" y="478" font-size="12">Code · Learn · Build · Repeat.</text>
+</svg>
