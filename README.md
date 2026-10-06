@@ -4,14 +4,6 @@
 
 ### Final-year B.Tech Information Technology Student · Developer · Problem Solver
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Java+Developer;Web+Developer;Data+Analytics+Enthusiast;IoT+Developer;Problem+Solver" alt="Typing Animation">
-
-<br>
-
-<img src="./contrib-heatmap.svg" width="860">
-
 <br><br>
 
 <table>
