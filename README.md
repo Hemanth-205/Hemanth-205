@@ -3,16 +3,28 @@
 # `hemanth@github:~$ whoami`
 
 ### HEMANTH G
-**Information Technology Student · Developer · Problem Solver**
 
-<img src="./contrib-heatmap.svg" width="860" />
+**Final-year B.Tech Information Technology Student · Developer · Problem Solver**
+
+Java · JavaScript · React.js · SQL · MongoDB · Power BI · IoT
+
+<br>
+
+<img src="./contrib-heatmap.svg" width="860">
 
 <br><br>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="430" /></td>
-<td valign="top"><img src="./info-card.svg" width="430" /></td>
+
+<td valign="top">
+<img src="./avi-ascii.svg" width="430">
+</td>
+
+<td valign="top">
+<img src="./info-card.svg" width="430">
+</td>
+
 </tr>
 </table>
 
@@ -22,78 +34,207 @@
 
 ## `hemanth@github:~$ cat about.txt`
 
-I'm **Hemanth G**, a final-year **B.Tech Information Technology** student at **Manakula Vinayagar Institute of Technology, Puducherry**.
+Final-year **B.Tech Information Technology** student at **Manakula Vinayagar Institute of Technology, Puducherry**, with knowledge of Java, JavaScript, SQL, MongoDB and web development using HTML, CSS and React.js.
 
-I enjoy building practical applications across **web development, data analytics, AI, cybersecurity and IoT**.
-
-```text
-> Build
-> Learn
-> Experiment
-> Solve
-> Improve
-```
+Interested in **software engineering, application development, networking, troubleshooting and data-driven solutions**.
 
 ---
 
 ## `hemanth@github:~$ ls ./skills`
 
-<div align="center">
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+`Java` `JavaScript`
 
-</div>
+### Frontend Development
+
+`HTML` `CSS` `React.js`
+
+### Databases
+
+`SQL` `MongoDB`
+
+### Networking
+
+`CCNA` `Switching` `Routing` `Wireless` `Network Troubleshooting`
+
+### Operating Systems
+
+`Windows` `Linux`
+
+### Tools & Platforms
+
+`Figma` `Canva` `Power BI` `UiPath Studio`
 
 ---
 
 ## `hemanth@github:~$ ls ./projects`
 
-### 🏥 MedHistory
-Personal health-record PWA for organizing medical information digitally.
+### 🏥 Medical History Management Website
 
-### 🔐 CRYPTEVID
-Secure digital evidence management and forensic intelligence platform.
+**Technology:** `Java` `HTML` `CSS` `JavaScript` `MongoDB`
 
-### 📊 Data Analytics
-Interactive dashboards and analytics solutions using Power BI and SQL.
+MedHistory is a digital personal health record platform designed to manage and organize medical information efficiently.
 
-### 🌐 Web Applications
-Responsive applications built with modern frontend and backend technologies.
+The platform provides users with an intuitive interface to store and access:
+
+- Lab reports
+- Prescriptions
+- Vital health records
+
+The project focuses on **secure, accessible and user-friendly management of personal healthcare data**.
 
 ---
 
-## `hemanth@github:~$ ./current-focus.sh`
+### 🔐 AI-Powered Secure Digital Evidence Collection and Analysis System
 
-```text
-[✓] Java & DSA
-[✓] Web Development
-[✓] SQL & Data Analytics
-[✓] AI / Cybersecurity Projects
-[✓] IoT & ESP32
-[→] Building better projects
-[→] Preparing for software engineering opportunities
-```
+**Technology:** `Java` `Spring Boot` `REST API` `React.js` `MongoDB`
+
+A secure digital evidence management system designed to authenticate investigators and enable secure evidence submission.
+
+Key features include:
+
+- Investigator authentication
+- Secure evidence submission
+- SHA-256 integrity verification
+- AI-based evidence analysis
+- Incident timeline reconstruction
+- Automated forensic report generation
+
+---
+
+### 🚗 Smart Car Autonomous Speed Control System
+
+**Technology:** `ESP32` `Embedded C` `IR Sensor` `LiFi` `LoRa SX1278` `PWM` `L298N` `Blynk`
+
+IoT-based Smart Car Autonomous Speed Control System using ESP32, IR sensors, LiFi and LoRa to detect restricted zones, transmit speed limits and automatically regulate vehicle speed through PWM-based motor control.
+
+Additional capabilities:
+
+- Real-time remote monitoring using LoRa
+- Bluetooth-based manual control
+- Blynk-based zone selection
+- LCD status display
+- Emergency override
+- Fail-safe mechanism
+
+---
+
+## `hemanth@github:~$ cat experience.txt`
+
+### Data Analyst — NEXTGEN SOLUTION
+
+**June 2025 – July 2025**
+
+- Analyzed and troubleshot data-driven workflows.
+- Identified issues in data quality and reporting.
+- Applied structured problem-solving to resolve workflow issues.
+- Built dashboards and reports using Power BI.
+- Communicated findings clearly to stakeholders.
+
+---
+
+### Frontend Developer — MOTION CUT
+
+**February 2025 – March 2025**
+
+- Developed and debugged responsive user-facing web components.
+- Collaborated with the team to resolve issues.
+- Worked with HTML, CSS and JavaScript.
+- Gained practical experience in a fast-paced, deadline-driven environment.
+
+---
+
+## `hemanth@github:~$ cat certifications.txt`
+
+### Cisco Networking Academy
+
+**CCNA: Switching, Routing & Wireless Essentials**
+
+---
+
+### Spoken Tutorial Project — IIT Bombay
+
+**Java Programming**
+
+---
+
+### ICT Academy
+
+**Automation Developer Associate Training (v2024.10)**
+
+Cohort 2
+
+---
+
+### SARVA I.T & Educational Development
+
+**Honors Diploma in Computer Programming**
+
+---
+
+## `hemanth@github:~$ cat achievements.txt`
+
+### 🏆 1st Prize — National Technology Week Students Project Exhibition
+
+**IQAC & R&D Cell, MVIT, Puducherry — 2026**
+
+---
+
+### 📄 Research Publication
+
+**Big Data Privacy and Security in Data Analytics: A Review on Issues, Challenges, and Privacy-Preserving Methods**
+
+Published in:
+
+**IRJASH — Vol. 07, Issue 02, 2025**
+
+**DOI:** `10.47392/IRJASH.2025.011`
+
+---
+
+## `hemanth@github:~$ cat education.txt`
+
+### 🎓 Manakula Vinayagar Institute of Technology
+
+**2023 – 2027**
+
+Bachelor of Technology — Information Technology
+
+**CGPA: 8.5**
+
+📍 Puducherry
+
+---
+
+### Seventh Day Adventist Higher Secondary School
+
+**HSC — 2023**
+
+73.33%
+
+**SSLC — 2021**
+
+Pass
+
+---
+
+## `hemanth@github:~$ ./contact.sh`
+
+📍 **Puducherry, India**
+
+📧 **grhemanth26@gmail.com**
+
+🔗 **LinkedIn:** [hemanth-g25](https://www.linkedin.com/in/hemanth-g25/)
+
+💻 **GitHub:** [Hemanth-205](https://github.com/Hemanth-205)
 
 ---
 
 <div align="center">
 
-### `Code · Learn · Build · Repeat.`
-
-<a href="https://github.com/Hemanth-205"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:grhemanth26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
+```text
+> Learn continuously
+> Build practically
+> Solve systematically
+> Grow consistently
