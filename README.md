@@ -207,7 +207,7 @@ Published in:
 ---
 
 ## Areas of Interest
-
+<div align="center">
 <table>
 <tr>
 <td align="center">💻<br><b>Software Development</b></td>
@@ -220,19 +220,6 @@ Published in:
 <td align="center">🤖<br><b>IoT</b></td>
 </tr>
 </table>
-
----
-
-## GitHub Contributions
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="860">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hemanth-205&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="480">
-
 </div>
 
 ---
